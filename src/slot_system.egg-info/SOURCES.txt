@@ -1,0 +1,9 @@
+README.md
+setup.py
+src/slot_system/__init__.py
+src/slot_system/slot_manager.py
+src/slot_system/slot_structure.py
+src/slot_system.egg-info/PKG-INFO
+src/slot_system.egg-info/SOURCES.txt
+src/slot_system.egg-info/dependency_links.txt
+src/slot_system.egg-info/top_level.txt
