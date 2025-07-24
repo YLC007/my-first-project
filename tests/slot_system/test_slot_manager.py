@@ -11,10 +11,10 @@ def test_slot_validation():
     manager.register_slot(budget)
     
     # 测试验证
-    valid, msg = manager.validate_slot("预算", 5000)
+    valid, msg = manager.check_slot("预算", 5000)
     assert valid is True
     
-    valid, msg = manager.validate_slot("预算", 50)
+    valid, msg = manager.check_slot("预算", 50)
     assert valid is False
     assert "不能小于100" in msg
 
