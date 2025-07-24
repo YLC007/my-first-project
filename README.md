@@ -1,6 +1,3 @@
-# my-first-project
-This is my first GitHub repository.
-
 # 旅游规划槽位管理系统
 
 本项目实现旅游领域的槽位管理系统，支持：
